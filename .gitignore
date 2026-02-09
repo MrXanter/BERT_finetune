@@ -1,3 +1,5 @@
 .venv
-eval_dataset.txt
-train_dataset.txt
+.vscode
+__pycache__
+*.csv
+bruh.py
