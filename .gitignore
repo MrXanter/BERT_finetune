@@ -2,5 +2,6 @@
 .vscode
 __pycache__
 bruh.py
-*.txt
+eval_dataset.txt
+train_dataset.txt
 results
